@@ -234,3 +234,6 @@ ls --color=auto
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+help -z
+help let
+help

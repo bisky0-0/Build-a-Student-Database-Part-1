@@ -237,3 +237,4 @@ ls --color=auto
 help -z
 help let
 help
+cp courses.csv courses_test.csv

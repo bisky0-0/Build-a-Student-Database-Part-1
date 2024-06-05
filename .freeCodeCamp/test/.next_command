@@ -318,3 +318,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 TRUNCATE majors_courses, majors
 psql TRUNCATE majors_courses, majors
 TRUNCATE TABLE majors_course majors
+./insert_data.sh

@@ -330,3 +330,6 @@ TRUNCATE TABLE majors_course majors
 ./insert_data.sh
 ./insert_data.sh
 cp students.csv students_test.csv
+cp students.csv students_test.csv
+./insert_data.sh
+./insert_data.sh

@@ -320,3 +320,6 @@ psql TRUNCATE majors_courses, majors
 TRUNCATE TABLE majors_course majors
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
